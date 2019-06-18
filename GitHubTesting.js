@@ -4,5 +4,5 @@
 //}
 //
 //alert(name);
-
+age
 console.log("Vladimir Lang");
