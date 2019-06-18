@@ -1,4 +1,4 @@
-var age = 25;
+var age = 30;
 bla = function() {
 	return age;
 }
