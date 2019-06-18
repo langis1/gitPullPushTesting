@@ -6,3 +6,4 @@
 //alert(name);
 
 console.log("Vladimir Lang");
+console.log("Hello World");
